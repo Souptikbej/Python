@@ -8,7 +8,7 @@ This section covers core Python programming and SQL database concepts. By the en
 - Python-database connectivity
 
 ## 📁 Project Structure
-
+```
 week1-2/
 ├── week1/
 │ ├── day1_sum.py # Sum of N numbers
@@ -38,7 +38,7 @@ week1-2/
 ├── db_connector.py # Python-DB connectivity
 ├── cli_food_app.py # CLI Food Browser project
 └── schema_diagram.txt # ER diagram
-
+```
 
 ## 🎯 Week 1: Python Core
 

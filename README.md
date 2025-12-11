@@ -1,4 +1,3 @@
-# Python
 # 60-DAY FASTAPI BACKEND MASTERY PROGRAM
 ## Complete Implementation Guide with Hour-by-Hour Structure
 
